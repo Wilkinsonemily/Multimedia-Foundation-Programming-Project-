@@ -99,9 +99,9 @@ This is a simple desktop-like system application built with multiple apps includ
 
 1. **Clone Repository:**
 
-```bash
-git clone https://github.com/username/MultimediaProject.git
-```
+On this GitHub page, click the **`< > Code`** button and copy the repository link. Then, open your terminal or command prompt and run the following command:
+
+`git clone [paste the copied link here]`
 
 2. **Open in Eclipse:**
 
